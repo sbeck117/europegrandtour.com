@@ -52,7 +52,7 @@ gulp.task('serve', [ 'watch' ], cb => (
 ))
 
 gulp.task('build', cb => (
-  sequence('clean', [ 'styles', 'bundle', 'pages', 'assets' ], cb)
+  sequence('clean', [ 'styles', 'bundle', 'pages', 'assets', 'forms' ], cb)
 ))
 
 gulp.task('watch', [ 'build' ], cb => (
@@ -84,6 +84,12 @@ gulp.task('styles:watch', () => (
 gulp.task('assets', () => (
   gulp.src(path.join(imagesDir, '**/*'))
     .pipe(gulp.dest(path.join(buildDir, imagesDir)))
+    .pipe(browserSync.stream())
+))
+
+gulp.task('forms', () => (
+  gulp.src(path.join('forms', '**/*'))
+    .pipe(gulp.dest(path.join(buildDir, 'forms')))
     .pipe(browserSync.stream())
 ))
 
