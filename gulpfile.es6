@@ -139,13 +139,7 @@ gulp.task('browsersync', () => {
   })
 })
 
-gulp.task('uglify', [ 'build' ], () => (
-  gulp.src(path.join(buildDir, scriptsDir, 'bundle.js'))
-    .pipe(uglify())
-    .pipe(gulp.dest(path.join(buildDir, scriptsDir)))
-))
-
-gulp.task('deploy', [ 'build', 'uglify' ], () => {
+gulp.task('deploy', [ 'build' ], () => {
   var branch = sh.exec('git rev-parse --abbrev-ref HEAD', { silent: true }).output.trim()
   var changes = sh.exec('git diff-files --quiet --ignore-submodules').code !== 0
 
