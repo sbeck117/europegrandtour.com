@@ -16,7 +16,30 @@
 
     <p>Our Orientations are presentations meant to reduce the uncertainties that often accompany international travel. The focus of each is, of course, the traveler; but is also meant to connect and involve our families. All travelers are required to attend. Parents, spouses and friends are encouraged to attend. Comments collected over the past 35 years have characterized our Orientations as essential, entertaining, informative and reassuring.</p>
 
-    <p>There will be three meetings in total, all with differing instruction. It is very important to attend these meetings, as they will include crucial information on trip safety, packing, law, forms, customs, and more. Check back here after the <a href="/#presentation">presentation</a> for the dates.</p>
+    <p>There will be three meetings in total, all with differing instruction. It is very important to attend these meetings, as they will include crucial information on trip safety, packing, law, forms, customs, and more.</p>
+
+    <p>All orientations are held at <strong>6:30PM</strong> at the <strong><a href="https://goo.gl/maps/GHn6oJ71nw62" target="_blank">Safety Harbor Library</a></strong>.
+
+    <div class="address">
+      <p><strong>Safety Harbor Library</strong></p>
+      <p>101 Second Street North</p>
+      <p>Safety Harbor, Florida 34659</p>
+      <p>Library phone: (727) 724-1525</p>
+      <p>S.X. Straub phone: (727) 243-8304</p>
+    </div>
+
+    <h2>Wednesday, March 16th – Italy</h2>
+
+    <p>Staff Titles and Duties • "Adults" and "Minors" • Program Philosophy • Guide Books • Program Design • Passports • Luggage • Cameras • Spending Money • Credit Cards • Security</p>
+
+    <h2>Wednesday, April 20th – Austria</h2>
+
+    <p>Parking • Shoes • Emergency Packets • Campus Rules • Foreign Currency • Wrap-Arounds • Medicine • Extreme Sports Choices • Hotels • Phoning Home</p>
+
+    <h2>Wednesday, May 18th – Paris</h2>
+
+    <p>Final Departure Information • Last Minute Packing • Exchanging Currency • Budget • US Customers • Sign-Out Sheets • Culture Shock • Transatlantic Flight • TIA Check-in • Hour-by-Hour Itinerary • Parents' Meeting with the Director</p>
+
   </li>
   <li>
     <h1>Acquire your Passport</h1>
